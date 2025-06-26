@@ -6,7 +6,7 @@ public class Main {
         int sugarAmount = 5; // g
         int oilAmount = 30; // ml
         int appleCount = 4; // items
-
+        //hello
         // Example
         // apples - 5
 
